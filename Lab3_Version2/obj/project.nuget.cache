@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bFGZ47f6t+n9lepjuvId4fEVv3/yQcRUF4iwbOTZW6ECK7VzT4XzyTj7mB8i4yUzsYCWHpcD47H5TjtvcUfFBQ==",
+  "success": true,
+  "projectFilePath": "/home/fizlrock/RiderProjects/Lab3_Version2/Lab3_Version2/Lab3_Version2.csproj",
+  "expectedPackageFiles": [
+    "/home/fizlrock/.nuget/packages/skiasharp/2.88.3/skiasharp.2.88.3.nupkg.sha512",
+    "/home/fizlrock/.nuget/packages/skiasharp.nativeassets.macos/2.88.3/skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "/home/fizlrock/.nuget/packages/skiasharp.nativeassets.win32/2.88.3/skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "/home/fizlrock/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
